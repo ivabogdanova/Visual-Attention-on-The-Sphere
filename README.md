@@ -4,6 +4,8 @@ README
 
 This repository contains the MATLAB source code for performing a visual attention (VA) algorithm on spherical images obtained with ladybug camera.
 
+Uses YAWTB and the Spharmonikit interface
+
 The main program is 
 compute_SPHsaliency.m
 
